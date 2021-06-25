@@ -1,4 +1,4 @@
-# Perfil do Profissional de Dados do Brasil
+# Perfil do Profissional de Dados no Brasil
 
 Autor: Theresa Rocha
 
